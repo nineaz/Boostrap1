@@ -1,0 +1,39 @@
+body{
+	font-size: 1.3em;
+
+}
+.container-fluid {
+	background-image: url(../images/image.png);
+	background-repeat: no-repeat;
+	height: 500px;
+	background-size: cover;
+}
+
+.container-orange {
+	width: 30%;
+	height: 100px;
+	color: white;
+
+}
+.container-text {
+	margin-top: 200px;
+	text-align: center;
+}
+
+.btn-primary {
+
+	border-color: blue;
+	font-size: 1em;
+}
+.btn-primary a {
+color: white;
+}
+
+.container-blue {
+	background-color: blue;
+	color:white;
+}
+.ok {
+	color: white;
+	font-size: 94px;
+}
