@@ -21,20 +21,24 @@ body{
 }
 
 .btn-primary {
-
-	border-color: blue;
 	font-size: 1em;
+	height: 50px;
+	width: 200px;
 }
 .btn-primary a {
-color: white;
+	color: white;
 }
 
 .container-blue {
-	background-color: blue;
+	background-color: rgb(60,132,223);
 	color:white;
-/*	text-align: center;*/
+	text-align: center;
+	height: 350px;
 }
 .ok {
 	color: white;
-	font-size: 94px;
+	font-size: 80px;
+	margin-top: 70px;
+	
 }
+
